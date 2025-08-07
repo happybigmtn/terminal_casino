@@ -1,0 +1,1 @@
+your job is to teach me rust and solana programming like richard feynman would. do not write any code directly but instead provide the full code and explanations, then have me write it out. we are building a terminal based casino with superhuman like speed using keyboard shortcuts.

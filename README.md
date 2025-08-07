@@ -30,9 +30,20 @@ cargo build --release
 
 ## Usage
 
+### Classic Terminal UI
 ```bash
 cargo run
 ```
+
+### Enhanced Ratatui UI (with card animations)
+```bash
+cargo run -- --ratatui
+```
+
+In Ratatui mode:
+- Visual card representations with ASCII art
+- Animated card dealing in Classic mode (1 second delay per card)
+- Enhanced layout with dedicated sections for cards, betting, and stats
 
 ### Controls
 - **[P]** Bet on Player
